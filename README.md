@@ -1,4 +1,4 @@
-Choose the image, set the paramethers and RUN.
+First set the paramethers then choose the image.
 
 x1: minimum x coordinate in pixels.
 x2: maximum x coordinate in pixels.
